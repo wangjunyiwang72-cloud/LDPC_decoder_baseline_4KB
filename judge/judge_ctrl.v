@@ -545,7 +545,7 @@ module judge_ctrl (
 
 
     // 扩展矩阵
-`include "Hb_H_QC_N68224_K65536_R0.96_z64.txt"
+`include "Hb_H_QC_N68224_K65536_R0.96_z128.txt"
     /* parameter  cyclic_shif_data_1_2   =   5'd23; */
 
 

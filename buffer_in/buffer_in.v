@@ -543,7 +543,7 @@ module buffer_in #(
         output wire [QNT_BIT-1:0] rr_data_530,
         output wire [QNT_BIT-1:0] rr_data_531,
         output wire [QNT_BIT-1:0] rr_data_532,
-        output wire [QNT_BIT-1:0] rr_data_533
+        output wire [QNT_BIT-1:0] rr_data_533,
         output reg  [        6:0] addr,            // 写入 ram_llr 的内部地址
         output reg  [        1:0] flag_buffer_in,  // buffer 存有几帧信号
         output wire               flag_org_write_end,

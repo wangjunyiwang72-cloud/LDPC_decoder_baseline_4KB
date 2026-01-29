@@ -23,11 +23,11 @@ module top (
     // 控制模块
     wire        flag_first_store;
     wire        flag_org_read_start;
-    wire [23:0] flag_org_read_end;
+    wire [532:0] flag_org_read_end;
     wire        flag_CFU_start;
-    wire [3:0] flag_CFU_end;
+    wire [20:0] flag_CFU_end;
     wire        flag_VFU_start;
-    wire [23:0] flag_VFU_end;
+    wire [532:0] flag_VFU_end;
     wire        flag_judge_start;
     wire        flag_judge_end;
     wire        flag_org_update;
@@ -37,9 +37,9 @@ module top (
     wire [ 6:0] H_sum;
 
     // combine_ram_llr模块
-    wire [ 7:0] org_addr     [532:0];  // 533路 llr 数据对应的地址信息，每一路有 7 位的地址
-    wire [532:0] org_wr_en;
-    wire [2:0] org_data     [532:0];  //有533路原始数据输出到H存储ram中
+    wire [ 7:0] org_addr     [533:0];  // 533路 llr 数据对应的地址信息，每一路有 7 位的地址
+    wire [533:0] org_wr_en;
+    wire [3:0] org_data     [533:0];  //有533路原始数据输出到H存储ram中
 
     // 判决接收
     wire [63:0] bit_data     [532:0];

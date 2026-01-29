@@ -1,0 +1,17 @@
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/CFU_102_ctrl.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/vn4.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/vn5.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/conctrl.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/judge_ctrl.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/min_least_102.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/org_read.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/ram_port_1_ctrl.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/top.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/VFU_4_ctrl.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/VFU_5_ctrl.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/buffer_in.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/buffer_out.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/buffer_ram.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/combine_ram_llr.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/dual_port_bram_16x32_write_first.v
+/data1/linhome/wangjunyi/Desktop/4KBcode_Adapted_from_2306_version/rtl/combine_ram_ctrl.v

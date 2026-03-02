@@ -1,0 +1,109 @@
+
+Information: Checking generated_clocks...
+
+Information: Checking loops...
+
+Information: Checking no_input_delay...
+Warning: The following input ports have no clock_relative delay specified, the command set_input_delay without -clock option will be ignored. (TIM-216)
+--------------------
+sink_star
+sink_stop
+sink[3]
+sink[2]
+sink[1]
+sink[0]
+
+Information: Checking unconstrained_endpoints...
+
+Warning: The following end-points are not constrained for maximum delay.
+
+End point
+---------------
+buffer_full
+data_decode[0]
+data_decode[1]
+data_decode[2]
+data_decode[3]
+data_decode[4]
+data_decode[5]
+data_decode[6]
+data_decode[7]
+data_decode[8]
+data_decode[9]
+data_decode[10]
+data_decode[11]
+data_decode[12]
+data_decode[13]
+data_decode[14]
+data_decode[15]
+data_decode[16]
+data_decode[17]
+data_decode[18]
+data_decode[19]
+data_decode[20]
+data_decode[21]
+data_decode[22]
+data_decode[23]
+data_decode[24]
+data_decode[25]
+data_decode[26]
+data_decode[27]
+data_decode[28]
+data_decode[29]
+data_decode[30]
+data_decode[31]
+data_decode[32]
+data_decode[33]
+data_decode[34]
+data_decode[35]
+data_decode[36]
+data_decode[37]
+data_decode[38]
+data_decode[39]
+data_decode[40]
+data_decode[41]
+data_decode[42]
+data_decode[43]
+data_decode[44]
+data_decode[45]
+data_decode[46]
+data_decode[47]
+data_decode[48]
+data_decode[49]
+data_decode[50]
+data_decode[51]
+data_decode[52]
+data_decode[53]
+data_decode[54]
+data_decode[55]
+data_decode[56]
+data_decode[57]
+data_decode[58]
+data_decode[59]
+data_decode[60]
+data_decode[61]
+data_decode[62]
+data_decode[63]
+data_en
+iter[0]
+iter[1]
+iter[2]
+iter[3]
+iter[4]
+u_buffer_in/current_state_reg[0]/D
+u_buffer_in/current_state_reg[1]/D
+u_buffer_in/current_state_reg[2]/D
+u_buffer_in/next_state_reg[0]/D
+u_buffer_in/next_state_reg[1]/D
+u_buffer_in/next_state_reg[2]/D
+u_buffer_in/sink_reg_reg[0]/D
+u_buffer_in/sink_reg_reg[1]/D
+u_buffer_in/sink_reg_reg[2]/D
+u_buffer_in/sink_reg_reg[3]/D
+
+Information: Checking pulse_clock_cell_type...
+
+Information: Checking no_driving_cell...
+
+Information: Checking partial_input_delay...
+1

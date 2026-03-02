@@ -1,0 +1,25 @@
+ 
+****************************************
+Report : constraint
+        -all_violators
+Design : Baseline_4KB
+Version: O-2018.06-SP5-5
+Date   : Tue Feb  3 05:04:34 2026
+****************************************
+
+
+   min_capacitance
+
+                             Required        Actual
+   Net                      Capacitance    Capacitance       Slack
+   -----------------------------------------------------------------
+   u_buffer_in/sink_reg[0]      0.00           0.00           0.00  (VIOLATED: increase significant digits)
+   u_buffer_in/sink_reg[1]      0.00           0.00           0.00  (VIOLATED: increase significant digits)
+   u_buffer_in/sink_reg[2]      0.00           0.00           0.00  (VIOLATED: increase significant digits)
+   u_buffer_in/sink_reg[3]      0.00           0.00           0.00  (VIOLATED: increase significant digits)
+   u_buffer_in/write_page       0.00           0.00           0.00  (VIOLATED: increase significant digits)
+
+   -----------------------------------------------------------------
+   Total                      5                  -0.00  
+
+1

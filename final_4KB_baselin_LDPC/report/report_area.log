@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : Baseline_4KB
+Version: O-2018.06-SP5-5
+Date   : Tue Feb  3 05:05:48 2026
+****************************************
+
+Library(s) Used:
+
+    tcbn22ullbwp30p140tt0p9v25c (File: /home21/longyang/common/share/tsmc22/tcbn22ullbwp30p140_110b/tcbn22ullbwp30p140_110b/AN61001_20201222/TSMCHOME/digital/Front_End/timing_power_noise/NLDM/tcbn22ullbwp30p140_110b/tcbn22ullbwp30p140tt0p9v25c.db)
+
+Number of ports:                       732677
+Number of nets:                       5300530
+Number of cells:                      4620723
+Number of combinational cells:        3799702
+Number of sequential cells:            804365
+Number of macros/black boxes:               0
+Number of buf/inv:                     379754
+Number of references:                    3237
+
+Combinational area:            2464309.603857
+Buf/Inv area:                   101492.748947
+Noncombinational area:         1573477.267209
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:               4037786.871065
+Total area:                 undefined
+1
